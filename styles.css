@@ -1,0 +1,30 @@
+.topBar{
+    margin:5px;
+
+}
+
+
+
+
+.boxTop{
+    width:328px;
+    height: 100px;
+    margin: 8px;
+    background-color: green;
+    border: 20px solid #3CB371;
+    display:inline-block;
+}
+
+.centerDiv{
+    width:100%;
+    height: 300px;
+    background-color: green;
+    margin: 5px;
+}
+
+.footer{
+    width:100%;
+    height: 300px;
+    background-color: green;
+    margin: 5px;
+}
